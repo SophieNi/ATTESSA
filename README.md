@@ -1,2 +1,2 @@
 # ATTESSA
-Auto Trader with Time Series and Sentimental Analysis
+Auto Trader with Time Series and Sentiment Analysis
