@@ -11,7 +11,7 @@
 - [ ] Scheduling
 
 ### BERT
-- [ ] Find Pre-trained models of BERT on Sentimental Analysis
+- [ ] Find Pre-trained models of BERT on Sentiment Analysis
 - [ ] Data labeling (via Prodigy) [Percentage: 0.0%]
 - [ ] Fine tune the model [Accuracy: 0.0%]
 
