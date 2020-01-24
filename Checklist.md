@@ -16,7 +16,7 @@
 - [ ] Fine tune the model [Accuracy: 0.0%]
 
 ### Time Series Prediction
-- [ ] Idea 1: use simple forecasting models(SARIMA)
+- [ ] Idea 1: use simple forecasting models (SARIMA or Exponential smoothing)
 - [ ] Idea 2: signal processing using FFT + Deep Learning
 
 ### Price Prediction
