@@ -23,7 +23,7 @@
 - [ ] Feature engineering: add economics and finance related features
 - [ ] Prediction target: is the stock price going to increase or decrease after a periods
 
-### Trading
+### Auto-Trading
 - [ ] Buy/Sell functionalities using APIs
 - [ ] (Alternative) Use web scrapers (un-reliabe)
 
