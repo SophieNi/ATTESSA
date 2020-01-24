@@ -1,6 +1,6 @@
 ### Setup
 
-- [ ] Install Postgres server on Raspberrypi
+- [ ] Install Postgres server on RaspberryPi
 - [ ] Setup remote ssh tunnel (via Serveo)
 - [ ] Setup permissions
 
